@@ -35,11 +35,11 @@
 <br>
 
 <p align="center" style="margin-right:0px;padding-right:0px">
-<img  src="https://github-readme-stats.vercel.app/api?username=thanushiamanda&theme=algolia">
-<img  alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=thanushiamanda&theme=algolia" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ThanushiAmanda&theme=algolia">
+<img  alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ThanushiAmanda&theme=algolia" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushiamanda&langs_count=8&theme=algolia" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanushiAmanda&langs_count=8&theme=algolia" alt="Top Languages">
 </p>
