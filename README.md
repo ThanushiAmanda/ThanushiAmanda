@@ -8,8 +8,6 @@
 
 - 🔭 I’m studying at [Sabaragamuwa University of Sri Lanaka](https://www.sab.ac.lk/)
 
-- 🌱 I’m currently learning **Laravel, Bootstrap & Firebase**
-
 - 👯 I’m currently learning **Information Systems**
 
 - 📫 How to reach me **thanushibasnayake@gmail.com** <br>
